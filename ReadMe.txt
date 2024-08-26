@@ -1,7 +1,8 @@
-Caution: Do not run this file service.exe to use with the main program. If you run it, there will be an error. We will fix it later.
-but you closed main program please goto taskmanger or cmd to kill service.exe 
-this process is use your cpu all time 
-Should be closed
+Caution: Do not run the service.exe file when the main program is not running. The file is designed to be used with the main program at the same time. If you run this file when the main program is not running, an error will occur. We will fix it later.
+However, if you have already closed the main program, please go to taskmanger or cmd to close service.exe.
+
+This process uses your CPU all the time.
+You should close it.
 
 
 cmd example:
