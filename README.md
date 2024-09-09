@@ -13,9 +13,20 @@
   CyberX Analysis is  program advanced data analysis techniques in the field of cybersecurity.
 </p>
 
-## 🚀 Features
+## 🚀 Features Check Is Pc Hacked
 
-- Analyze network traffic patterns for anomaly detection
-- Identify potential security threats using machine learning algorithms
-- Generate detailed reports and visualizations to aid decision-making
-- Scalable and modular design for easy customization and integration
+- Network Connections
+- Startup Programs
+- Important Files
+- Event Logs
+- Open Ports
+- Dangerous Commands
+- System Logs
+- Firewall Status
+- Windows Settings
+- Scheduled Tasks
+- Hidden Processes
+- Unusual User Accounts
+- Disabled Security Features
+- Suspicious Services
+- System Integrity
