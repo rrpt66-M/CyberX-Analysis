@@ -36,7 +36,6 @@
 
 ## ⚙️ Download With Git
 # Installation
-## If You Not Have Git Download in this link https://git-scm.com/download/win
 ```
 git clone https://github.com/rrpt66-M/CyberX-Analysis
 cd CyberX-Analysis
