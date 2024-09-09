@@ -7,9 +7,6 @@
   <a href="https://github.com/rrpt66-M/CyberX-Analysis/issues">
     <img src="https://img.shields.io/github/issues/rrpt66-M/CyberX-Analysis?style=for-the-badge" alt="Github Issues">
   </a>
-  <a href="https://github.com/rrpt66-M/CyberX-Analysis/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/rrpt66-M/CyberX-Analysis?style=for-the-badge" alt="License">
-  </a>
 </p>
 
 <p align="center">
