@@ -30,3 +30,14 @@
 - Disabled Security Features
 - Suspicious Services
 - System Integrity
+
+
+
+
+## ⚙️ Download With Git
+# Installation
+```
+git clone https://github.com/rrpt66-M/CyberX-Analysis
+cd CyberX-Analysis
+start CyberX-Analysis.exe
+```
