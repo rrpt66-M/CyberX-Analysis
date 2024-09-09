@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  CyberX Analysis is a demo program that showcases advanced data analysis techniques in the field of cybersecurity.
+  CyberX Analysis is  program advanced data analysis techniques in the field of cybersecurity.
 </p>
 
 ## 🚀 Features
