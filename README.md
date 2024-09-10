@@ -13,7 +13,7 @@
   CyberX Analysis is  program advanced data analysis techniques in the field of cybersecurity.
 </p>
 
-## 🚀 Features Check Is Pc Has Been Hacked ?
+## 🔎 List Check Is Pc Has Been Hacked ?
 
 - Network Connections
 - Startup Programs
@@ -30,3 +30,8 @@
 - Disabled Security Features
 - Suspicious Services
 - System Integrity
+
+
+## 🚀 Features
+- use CyberX-Analysis.exe /help for list command example:
+- CyberX-Analysis.exe /auto-login for run without login
