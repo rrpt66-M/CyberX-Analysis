@@ -30,8 +30,3 @@
 - Disabled Security Features
 - Suspicious Services
 - System Integrity
-
-
-## 🚀 Features
-- use CyberX-Analysis.exe /help for list command example:
-- CyberX-Analysis.exe /auto-login for run without login
